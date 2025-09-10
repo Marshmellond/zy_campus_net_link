@@ -1,4 +1,5 @@
-![](/upload/zy.webp)
+<div align="center"><h1>张家界学院校园网快捷登录</h1></div>
+<div align="center"><img src="/upload/zy.webp"></div>
 
 ## 下载地址
 
