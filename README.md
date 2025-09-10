@@ -36,6 +36,7 @@ github：[https://github.com/Marshmellond/zy\_campus\_net\_link](https://github.
 ![](/upload/image-FZMc.png)
 
 #### 4.双击运行
+运行前先连接上校园网WiFi
 
 ![](/upload/3bedb994-8f5c-4a97-8101-7b40e66910dd.png)
 
